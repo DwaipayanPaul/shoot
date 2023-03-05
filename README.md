@@ -1,1 +1,3 @@
 # shoot
+
+Shooting method code
